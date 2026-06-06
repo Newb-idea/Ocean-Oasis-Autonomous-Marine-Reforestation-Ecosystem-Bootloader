@@ -1,0 +1,2 @@
+# Ocean-Oasis-Autonomous-Marine-Reforestation-Ecosystem-Bootloader
+Ocean-Oasis is an open-source, purely theoretical conceptual architecture designed to examine the hypothetical terraforming of oligotrophic, hyper-arid marine environments (such as the Red Sea and the Persian Gulf off the coast of Saudi Arabia) into productive marine zones. From a purely academic standpoint, this concept explores how the localized 
