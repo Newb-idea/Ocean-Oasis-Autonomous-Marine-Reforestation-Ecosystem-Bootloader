@@ -266,3 +266,24 @@ Your "Ocean-Oasis" project is not intended to erode existing coral reefs, but ra
 
 "Seeking feedback from coral researchers: This protocol is designed to operate in 'desertified' zones to minimize impact on existing coral habitats. We welcome critical reviews or suggestions on zoning logic to ensure ecological harmony."
 （サンゴ研究者からのフィードバックを求めます：本プロトコルは、既存のサンゴ生息地への影響を最小限にするため「砂漠化海域」での運用を前提としています。生態学的調和を保つためのゾーニング論理への厳しいレビューや提案を歓迎します。）
+
+海緑化システム：サンゴ礁との棲み分け戦略
+Ocean-Oasis: Strategy for Coexistence with Coral Reefs
+1. 基本コンセプト / Core Concept
+本プロジェクトは、サンゴ礁を侵食するものではなく、サンゴが定着できない「空白地帯（砂泥域）」を物理的に選定し、生態系のエンジンを再起動させることを目的とします。
+This project does not aim to erode coral reefs but rather to physically identify "blank spots" (sandy/muddy bottoms) where corals cannot inhabit, thereby rebooting the ecosystem's engine.
+
+2. 地理的戦略：空白地帯の活用 / Geographical Strategy: Utilizing "Blank Spots"
+サンゴ礁分布データの活用: 「Allen Coral Atlas」等の精密な分布図を参照し、サンゴ礁が存在する保全域を確実に除外します。
+Utilizing Coral Reef Data: We refer to high-precision distribution maps such as the "Allen Coral Atlas" to ensure that coral reef conservation zones are strictly excluded.
+
+砂泥域（Sandy-Muddy Seabed）の選定: サンゴが定着できず、かつホンダワラが栄養を吸収・浄化するポテンシャルの高い砂泥底を優先的に実験候補地とします。
+Selection of Sandy-Muddy Seabeds: We prioritize sandy-muddy bottoms as experimental sites, where corals cannot take root and where Sargassum has high potential for nutrient absorption and water purification.
+
+3. エンジニアリング上のリスク管理 / Engineering Risk Management
+栄養過多の回避: サンゴに悪影響を与える窒素・リンの過剰供給を避け、鉄分等の微量栄養素を用いた「ホンダワラに特化した最適化」を行います。
+Avoiding Nutrient Overload: We avoid excessive supply of nitrogen and phosphorus that negatively impact corals, opting for "optimization specialized for Sargassum" using micronutrients such as iron.
+
+「レジリエンス・ブートローダー」としての機能: 白化現象でストレスを受けた周辺海域に対し、一次生産の基盤を提供することで、生態系全体の回復力を底上げします。
+Function as a "Resilience Bootloader": By providing a foundation of primary production, we boost the resilience of the entire surrounding ecosystem that has been stressed by bleaching events.
+
