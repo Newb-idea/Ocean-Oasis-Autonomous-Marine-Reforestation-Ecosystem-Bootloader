@@ -287,3 +287,27 @@ Avoiding Nutrient Overload: We avoid excessive supply of nitrogen and phosphorus
 「レジリエンス・ブートローダー」としての機能: 白化現象でストレスを受けた周辺海域に対し、一次生産の基盤を提供することで、生態系全体の回復力を底上げします。
 Function as a "Resilience Bootloader": By providing a foundation of primary production, we boost the resilience of the entire surrounding ecosystem that has been stressed by bleaching events.
 
+倫理的ガバナンス・パッチ案 / Ethical Governance Patch v1.0
+第1条：非干渉と不可逆性の回避
+Article 1: Non-Interference and Reversibility
+本システムは、対象地域の「既存生態系の保全」を最優先事項とする。万が一、意図しない種の繁茂や環境変化が確認された場合、システムを即時停止・隔離できる「キルスイッチ（強制シャットダウン・プロトコル）」を物理的に実装すること。また、導入前後の生物多様性データをオープンに公開し、第三者機関による定期監査を受け入れる。
+The System shall prioritize the conservation of existing local ecosystems as the highest priority. In the event of unintended species proliferation or environmental changes, a "Kill Switch" (mandatory shutdown protocol) must be physically implemented to allow for immediate termination and isolation. Furthermore, biodiversity data before and after deployment must be publicly disclosed, and regular audits by third-party organizations shall be accepted.
+
+第2条：資源の公平分配と公開性
+Article 2: Open Access and Resource Equity
+本技術は、特定の企業や国家が独占するものではなく、乾燥・荒廃地域を持つ全人類の共通基盤として位置付ける。得られた「環境再生データ」および「物質循環効率」はオープンソースとして全世界に公開し、後発開発途上国が低コストで類似のシステムを実装できるための「技術的パッケージ」を維持する。
+This technology is not to be monopolized by any specific corporation or nation, but shall be positioned as a common foundation for all humanity possessing arid or degraded regions. Obtained "environmental regeneration data" and "material circulation efficiency" shall be released globally as open source, maintaining a "technical package" to enable developing nations to implement similar systems at a low cost.
+
+第3条：地政学的中立と生態学的平和
+Article 3: Geopolitical Neutrality and Ecological Peace
+本システムは、資源（水・食料・エネルギー）を戦略的武器として利用することを禁止する。隣接国との境界を越える地下水脈や海域の物質循環に影響を与える場合、必ず当該地域との事前協議および共同運用体制を構築しなければならない。環境再生が紛争の火種となってはならない。
+The use of this system to weaponize resources (water, food, energy) is strictly prohibited. If the material circulation of the system impacts transboundary groundwater or maritime areas, prior consultation and the establishment of a joint operation framework with the affected regions are mandatory. Environmental regeneration must never become a catalyst for conflict.
+
+第4条：AI・自律制御への「人間的監視」
+Article 4: Human-in-the-Loop for AI and Autonomous Control
+本システムを統治するAIおよび自律制御アルゴリズムは、常に人間の専門家チームによる「物理的オーバーライド」が可能な状態を維持する。システムが最適化の過程で人間の生活基盤を軽視するような結果を招いた場合、その決定プロセスの透明性を確保し、是正措置を取る義務を負う。
+The AI and autonomous control algorithms governing the System must maintain a state that allows for "physical override" by a team of human experts at all times. In the event that the optimization process leads to results that neglect human living foundations, the transparency of the decision-making process must be ensured, and an obligation to implement corrective measures shall be maintained.
+
+
+"This governance framework serves as the ethical foundation for the implementation of the Gaia-Oasis and Ocean-Oasis protocols. Any organization or entity intending to utilize these protocols is expected to adhere to these principles to ensure global safety and sustainability."
+（本ガバナンス・フレームワークは、Gaia-OasisおよびOcean-Oasisプロトコルを実装するための倫理的基盤です。本プロトコルを利用しようとする組織・団体は、世界的な安全性と持続可能性を確保するため、これらの原則を遵守することが期待されます。）
